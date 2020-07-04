@@ -3381,8 +3381,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0046
 			public const int SYM = 2131558470;
 			
-			// aapt resource value: 0x7f0d00b8
-			public const int action0 = 2131558584;
+			// aapt resource value: 0x7f0d00b9
+			public const int action0 = 2131558585;
 			
 			// aapt resource value: 0x7f0d0094
 			public const int action_bar = 2131558548;
@@ -3405,17 +3405,17 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0070
 			public const int action_bar_title = 2131558512;
 			
-			// aapt resource value: 0x7f0d00b5
-			public const int action_container = 2131558581;
+			// aapt resource value: 0x7f0d00b6
+			public const int action_container = 2131558582;
 			
 			// aapt resource value: 0x7f0d0095
 			public const int action_context_bar = 2131558549;
 			
-			// aapt resource value: 0x7f0d00bc
-			public const int action_divider = 2131558588;
+			// aapt resource value: 0x7f0d00bd
+			public const int action_divider = 2131558589;
 			
-			// aapt resource value: 0x7f0d00b6
-			public const int action_image = 2131558582;
+			// aapt resource value: 0x7f0d00b7
+			public const int action_image = 2131558583;
 			
 			// aapt resource value: 0x7f0d0003
 			public const int action_menu_divider = 2131558403;
@@ -3432,11 +3432,11 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0072
 			public const int action_mode_close_button = 2131558514;
 			
-			// aapt resource value: 0x7f0d00b7
-			public const int action_text = 2131558583;
+			// aapt resource value: 0x7f0d00b8
+			public const int action_text = 2131558584;
 			
-			// aapt resource value: 0x7f0d00c5
-			public const int actions = 2131558597;
+			// aapt resource value: 0x7f0d00c6
+			public const int actions = 2131558598;
 			
 			// aapt resource value: 0x7f0d0073
 			public const int activity_chooser_view_content = 2131558515;
@@ -3474,26 +3474,26 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d004c
 			public const int bottom = 2131558476;
 			
-			// aapt resource value: 0x7f0d00a5
-			public const int browser_actions_header_text = 2131558565;
-			
-			// aapt resource value: 0x7f0d00a7
-			public const int browser_actions_menu_item_icon = 2131558567;
+			// aapt resource value: 0x7f0d00a6
+			public const int browser_actions_header_text = 2131558566;
 			
 			// aapt resource value: 0x7f0d00a8
-			public const int browser_actions_menu_item_text = 2131558568;
+			public const int browser_actions_menu_item_icon = 2131558568;
 			
-			// aapt resource value: 0x7f0d00a6
-			public const int browser_actions_menu_items = 2131558566;
+			// aapt resource value: 0x7f0d00a9
+			public const int browser_actions_menu_item_text = 2131558569;
 			
-			// aapt resource value: 0x7f0d00a4
-			public const int browser_actions_menu_view = 2131558564;
+			// aapt resource value: 0x7f0d00a7
+			public const int browser_actions_menu_items = 2131558567;
+			
+			// aapt resource value: 0x7f0d00a5
+			public const int browser_actions_menu_view = 2131558565;
 			
 			// aapt resource value: 0x7f0d0079
 			public const int buttonPanel = 2131558521;
 			
-			// aapt resource value: 0x7f0d00b9
-			public const int cancel_action = 2131558585;
+			// aapt resource value: 0x7f0d00ba
+			public const int cancel_action = 2131558586;
 			
 			// aapt resource value: 0x7f0d0054
 			public const int center = 2131558484;
@@ -3507,8 +3507,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d008d
 			public const int checkbox = 2131558541;
 			
-			// aapt resource value: 0x7f0d00c1
-			public const int chronometer = 2131558593;
+			// aapt resource value: 0x7f0d00c2
+			public const int chronometer = 2131558594;
 			
 			// aapt resource value: 0x7f0d0068
 			public const int clip_horizontal = 2131558504;
@@ -3519,8 +3519,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0048
 			public const int collapseActionView = 2131558472;
 			
-			// aapt resource value: 0x7f0d00ab
-			public const int container = 2131558571;
+			// aapt resource value: 0x7f0d00ac
+			public const int container = 2131558572;
 			
 			// aapt resource value: 0x7f0d0089
 			public const int content = 2131558537;
@@ -3528,8 +3528,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d007c
 			public const int contentPanel = 2131558524;
 			
-			// aapt resource value: 0x7f0d00ac
-			public const int coordinator = 2131558572;
+			// aapt resource value: 0x7f0d00ad
+			public const int coordinator = 2131558573;
 			
 			// aapt resource value: 0x7f0d0083
 			public const int custom = 2131558531;
@@ -3546,20 +3546,20 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0076
 			public const int default_activity_button = 2131558518;
 			
-			// aapt resource value: 0x7f0d00ae
-			public const int design_bottom_sheet = 2131558574;
+			// aapt resource value: 0x7f0d00af
+			public const int design_bottom_sheet = 2131558575;
+			
+			// aapt resource value: 0x7f0d00b4
+			public const int design_menu_item_action_area = 2131558580;
 			
 			// aapt resource value: 0x7f0d00b3
-			public const int design_menu_item_action_area = 2131558579;
+			public const int design_menu_item_action_area_stub = 2131558579;
 			
 			// aapt resource value: 0x7f0d00b2
-			public const int design_menu_item_action_area_stub = 2131558578;
+			public const int design_menu_item_text = 2131558578;
 			
 			// aapt resource value: 0x7f0d00b1
-			public const int design_menu_item_text = 2131558577;
-			
-			// aapt resource value: 0x7f0d00b0
-			public const int design_navigation_view = 2131558576;
+			public const int design_navigation_view = 2131558577;
 			
 			// aapt resource value: 0x7f0d0030
 			public const int disableHome = 2131558448;
@@ -3570,8 +3570,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d003f
 			public const int end = 2131558463;
 			
-			// aapt resource value: 0x7f0d00c7
-			public const int end_padder = 2131558599;
+			// aapt resource value: 0x7f0d00c8
+			public const int end_padder = 2131558600;
 			
 			// aapt resource value: 0x7f0d004e
 			public const int enterAlways = 2131558478;
@@ -3621,8 +3621,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0078
 			public const int icon = 2131558520;
 			
-			// aapt resource value: 0x7f0d00c6
-			public const int icon_group = 2131558598;
+			// aapt resource value: 0x7f0d00c7
+			public const int icon_group = 2131558599;
 			
 			// aapt resource value: 0x7f0d0027
 			public const int icon_only = 2131558439;
@@ -3633,8 +3633,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0075
 			public const int image = 2131558517;
 			
-			// aapt resource value: 0x7f0d00c2
-			public const int info = 2131558594;
+			// aapt resource value: 0x7f0d00c3
+			public const int info = 2131558595;
 			
 			// aapt resource value: 0x7f0d006f
 			public const int italic = 2131558511;
@@ -3645,8 +3645,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0055
 			public const int labeled = 2131558485;
 			
-			// aapt resource value: 0x7f0d00aa
-			public const int largeLabel = 2131558570;
+			// aapt resource value: 0x7f0d00ab
+			public const int largeLabel = 2131558571;
 			
 			// aapt resource value: 0x7f0d005b
 			public const int left = 2131558491;
@@ -3666,11 +3666,11 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0077
 			public const int list_item = 2131558519;
 			
-			// aapt resource value: 0x7f0d00c9
-			public const int masked = 2131558601;
+			// aapt resource value: 0x7f0d00ca
+			public const int masked = 2131558602;
 			
-			// aapt resource value: 0x7f0d00bb
-			public const int media_actions = 2131558587;
+			// aapt resource value: 0x7f0d00bc
+			public const int media_actions = 2131558588;
 			
 			// aapt resource value: 0x7f0d00a3
 			public const int message = 2131558563;
@@ -3681,6 +3681,9 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0060
 			public const int mini = 2131558496;
 			
+			// aapt resource value: 0x7f0d00a4
+			public const int msgText = 2131558564;
+			
 			// aapt resource value: 0x7f0d0014
 			public const int mtrl_child_content_container = 2131558420;
 			
@@ -3690,8 +3693,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0037
 			public const int multiply = 2131558455;
 			
-			// aapt resource value: 0x7f0d00af
-			public const int navigation_header_container = 2131558575;
+			// aapt resource value: 0x7f0d00b0
+			public const int navigation_header_container = 2131558576;
 			
 			// aapt resource value: 0x7f0d004a
 			public const int never = 2131558474;
@@ -3702,14 +3705,14 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d002e
 			public const int normal = 2131558446;
 			
-			// aapt resource value: 0x7f0d00c4
-			public const int notification_background = 2131558596;
+			// aapt resource value: 0x7f0d00c5
+			public const int notification_background = 2131558597;
+			
+			// aapt resource value: 0x7f0d00bf
+			public const int notification_main_column = 2131558591;
 			
 			// aapt resource value: 0x7f0d00be
-			public const int notification_main_column = 2131558590;
-			
-			// aapt resource value: 0x7f0d00bd
-			public const int notification_main_column_container = 2131558589;
+			public const int notification_main_column_container = 2131558590;
 			
 			// aapt resource value: 0x7f0d0067
 			public const int outline = 2131558503;
@@ -3738,11 +3741,11 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d005c
 			public const int right = 2131558492;
 			
-			// aapt resource value: 0x7f0d00c3
-			public const int right_icon = 2131558595;
+			// aapt resource value: 0x7f0d00c4
+			public const int right_icon = 2131558596;
 			
-			// aapt resource value: 0x7f0d00bf
-			public const int right_side = 2131558591;
+			// aapt resource value: 0x7f0d00c0
+			public const int right_side = 2131558592;
 			
 			// aapt resource value: 0x7f0d000c
 			public const int save_image_matrix = 2131558412;
@@ -3819,8 +3822,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0034
 			public const int showTitle = 2131558452;
 			
-			// aapt resource value: 0x7f0d00a9
-			public const int smallLabel = 2131558569;
+			// aapt resource value: 0x7f0d00aa
+			public const int smallLabel = 2131558570;
 			
 			// aapt resource value: 0x7f0d0016
 			public const int snackbar_action = 2131558422;
@@ -3855,8 +3858,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d005d
 			public const int start = 2131558493;
 			
-			// aapt resource value: 0x7f0d00ba
-			public const int status_bar_latest_event_content = 2131558586;
+			// aapt resource value: 0x7f0d00bb
+			public const int status_bar_latest_event_content = 2131558587;
 			
 			// aapt resource value: 0x7f0d0062
 			public const int stretch = 2131558498;
@@ -3894,8 +3897,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0061
 			public const int textStart = 2131558497;
 			
-			// aapt resource value: 0x7f0d00b4
-			public const int text_input_password_toggle = 2131558580;
+			// aapt resource value: 0x7f0d00b5
+			public const int text_input_password_toggle = 2131558581;
 			
 			// aapt resource value: 0x7f0d0018
 			public const int textinput_counter = 2131558424;
@@ -3906,8 +3909,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d001a
 			public const int textinput_helper_text = 2131558426;
 			
-			// aapt resource value: 0x7f0d00c0
-			public const int time = 2131558592;
+			// aapt resource value: 0x7f0d00c1
+			public const int time = 2131558593;
 			
 			// aapt resource value: 0x7f0d0023
 			public const int title = 2131558435;
@@ -3924,8 +3927,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d0084
 			public const int topPanel = 2131558532;
 			
-			// aapt resource value: 0x7f0d00ad
-			public const int touch_outside = 2131558573;
+			// aapt resource value: 0x7f0d00ae
+			public const int touch_outside = 2131558574;
 			
 			// aapt resource value: 0x7f0d000f
 			public const int transition_current_scene = 2131558415;
@@ -3957,8 +3960,8 @@ namespace FCMClient.Android.App
 			// aapt resource value: 0x7f0d001b
 			public const int view_offset_helper = 2131558427;
 			
-			// aapt resource value: 0x7f0d00c8
-			public const int visible = 2131558600;
+			// aapt resource value: 0x7f0d00c9
+			public const int visible = 2131558601;
 			
 			// aapt resource value: 0x7f0d0029
 			public const int wide = 2131558441;
