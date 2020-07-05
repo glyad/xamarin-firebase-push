@@ -44,8 +44,11 @@ namespace FCMClient.Android.App
             CreateNotificationChannel();
 
             var logTokenButton = FindViewById<Button>(Resource.Id.logTokenButton);
+
             logTokenButton.Click += delegate {
-                Log.Debug(TAG, "InstanceID token: " + FirebaseInstanceId.Instance.Token);
+#pragma warning disable 618
+                Log.Debug(TAG, "InstanceID token 1: " + FirebaseInstanceId.Instance.Token);
+#pragma warning restore 618
             };
         }
 

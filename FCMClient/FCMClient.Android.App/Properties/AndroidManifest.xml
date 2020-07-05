@@ -15,6 +15,9 @@
         <category android:name="${applicationId}" />
       </intent-filter>
     </receiver>
+    <!--<meta-data
+      android:name="com.google.firebase.messaging.default_notification_icon"
+      android:resource="@drawable/ic_stat_ic_notification" />-->
   </application>
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 </manifest>
