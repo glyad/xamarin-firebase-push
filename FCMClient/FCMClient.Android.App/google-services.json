@@ -1,35 +1,88 @@
 {
   "project_info": {
-    "project_number": "1068734345501",
-    "firebase_url": "https://fcmclient-a52dc.firebaseio.com",
-    "project_id": "fcmclient-a52dc",
-    "storage_bucket": "fcmclient-a52dc.appspot.com"
+    "project_number": "329502998271",
+    "firebase_url": "https://wishsitymobile.firebaseio.com",
+    "project_id": "wishsitymobile",
+    "storage_bucket": "wishsitymobile.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1068734345501:android:dc99e95f24f00b5d2fb1f4",
+        "mobilesdk_app_id": "1:329502998271:android:b03fcfa3197ab1ac",
         "android_client_info": {
-          "package_name": "com.logoui.fcmclient.android.app"
+          "package_name": "com.wishsity"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1068734345501-b5b10j4jr1819qr4u473sku2ufn0ab08.apps.googleusercontent.com",
+          "client_id": "329502998271-hif6i1dmmed5cih3cld65av5mmv5qg2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishsity",
+            "certificate_hash": "18467df83d77372d65af03ec97aaf8ad31288696"
+          }
+        },
+        {
+          "client_id": "329502998271-b8kpt7shu1fki2kb0nkrq4dnkhblhoqa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDkP6nei4JpzNxLdqEL-q8pKGEuMrIJX-Y"
+          "current_key": "AIzaSyCSQXLsw8AOaanvneNB457LtVDPQ8LPnQM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1068734345501-b5b10j4jr1819qr4u473sku2ufn0ab08.apps.googleusercontent.com",
+              "client_id": "329502998271-b8kpt7shu1fki2kb0nkrq4dnkhblhoqa.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "329502998271-736gbrlltcs9giilegusd8runjhiueob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wishsity",
+                "app_store_id": "1364970384"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329502998271:android:a6ced49cad614294ebd6ca",
+        "android_client_info": {
+          "package_name": "com.wishsity.fcmclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329502998271-b8kpt7shu1fki2kb0nkrq4dnkhblhoqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQXLsw8AOaanvneNB457LtVDPQ8LPnQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329502998271-b8kpt7shu1fki2kb0nkrq4dnkhblhoqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329502998271-736gbrlltcs9giilegusd8runjhiueob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wishsity",
+                "app_store_id": "1364970384"
+              }
             }
           ]
         }

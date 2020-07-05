@@ -6,6 +6,7 @@ using Android.Support.V7.App;
 using Android.Runtime;
 using Android.Util;
 using Android.Widget;
+using Firebase;
 using Firebase.Iid;
 
 namespace FCMClient.Android.App
