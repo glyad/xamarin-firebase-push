@@ -4,10 +4,9 @@ using Android.Gms.Common;
 using Android.OS;
 using Android.Support.V7.App;
 using Android.Runtime;
-using Android.Widget;
-using Firebase.Messaging;
-using Firebase.Iid;
 using Android.Util;
+using Android.Widget;
+using Firebase.Iid;
 
 namespace FCMClient.Android.App
 {
@@ -23,6 +22,15 @@ namespace FCMClient.Android.App
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            if (Intent.Extras != null)
+            {
+                foreach (var key in Intent.Extras.KeySet())
+                {
+                    var value = Intent.Extras.GetString(key);
+                    Log.Debug(TAG, "Key: {0} Value: {1}", key, value);
+                }
+            }
+
             base.OnCreate(savedInstanceState);
             //Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             //// Set our view from the "main" layout resource
@@ -34,6 +42,11 @@ namespace FCMClient.Android.App
             IsPlayServicesAvailable();
 
             CreateNotificationChannel();
+
+            var logTokenButton = FindViewById<Button>(Resource.Id.logTokenButton);
+            logTokenButton.Click += delegate {
+                Log.Debug(TAG, "InstanceID token: " + FirebaseInstanceId.Instance.Token);
+            };
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Permission[] grantResults)
