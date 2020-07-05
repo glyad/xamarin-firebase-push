@@ -3,26 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1068734345501-dtuft1ei9hdia11jgg1hoifvb6eqknh7.apps.googleusercontent.com</string>
+	<string>329502998271-mo60f84c6mungk96mrlkg5f1e7lkakcs.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1068734345501-dtuft1ei9hdia11jgg1hoifvb6eqknh7</string>
+	<string>com.googleusercontent.apps.329502998271-mo60f84c6mungk96mrlkg5f1e7lkakcs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>329502998271-hif6i1dmmed5cih3cld65av5mmv5qg2v.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCdeapfZLHNZMa60bVXNKgCBAoRQn-EDpg</string>
+	<string>AIzaSyDtxcFu1rFict1oYDAp6LPccuPujAeGZmo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1068734345501</string>
+	<string>329502998271</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.logoui.fcmclient.ios.app</string>
+	<string>com.wishsity.fcmclient</string>
 	<key>PROJECT_ID</key>
-	<string>fcmclient-a52dc</string>
+	<string>wishsitymobile</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fcmclient-a52dc.appspot.com</string>
+	<string>wishsitymobile.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:329502998271:ios:a40516a7eee70760ebd6ca</string>
 	<key>IS_GCM_ENABLED</key>
 	<true/>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:1068734345501:ios:dfdad083f82999e62fb1f4</string>
 </dict>
 </plist>

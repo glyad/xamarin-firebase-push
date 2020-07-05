@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>FCMClient.iOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.logoui.fcmclient.ios.app</string>
+	<string>com.wishsity.fcmclient</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
